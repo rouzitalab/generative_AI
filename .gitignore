@@ -1,2 +1,6 @@
 # The OpenAI secret API key
 apikey.py
+
+# Temporary Files
+.idea/
+__pycache__/
